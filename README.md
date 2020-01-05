@@ -36,7 +36,3 @@ The following information will be stored in a .csv file (if available in the com
 - Specialties (this information can be also leveraged to filter out the undesired results)
 - Link to the LinkedIn profile page
 
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
